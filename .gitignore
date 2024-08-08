@@ -1,0 +1,6 @@
+.git
+.DS_Store # macOS specific ignore
+.env
+__pycache__/
+**__pycache__
+**.DS_Store
